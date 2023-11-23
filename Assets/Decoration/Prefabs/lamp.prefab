@@ -154,8 +154,8 @@ Light:
   m_Color: {r: 1, g: 0.9937631, b: 0.9198113, a: 1}
   m_Intensity: 1.5
   m_Range: 20
-  m_SpotAngle: 120.73095
-  m_InnerSpotAngle: 112.53303
+  m_SpotAngle: 104.162
+  m_InnerSpotAngle: 48.35532
   m_CookieSize: 10
   m_Shadows:
     m_Type: 1
